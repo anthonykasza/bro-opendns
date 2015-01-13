@@ -3,7 +3,7 @@ A toy example which queries the Investigate API from Bro scriptland.
 
 Description
 -----------
-Monitor your network DNS queries and periodically check the queried names against the OpenDNS Investigate API. Bro scriptland notices are raised for malcious domains. 
+Monitor your network DNS queries and periodically check the queried names against the OpenDNS Investigate API. Bro scriptland notices are raised for malicious domains. 
 
 
 Example Usage
