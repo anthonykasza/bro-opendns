@@ -1,0 +1,2 @@
+#fields	indicator	indicator_type	meta.source	meta.do_notice	meta.if_in
+songkillerbong.ru	Intel::DOMAN	OpenDNS::Investigate	T	DNS::DOMAIN
